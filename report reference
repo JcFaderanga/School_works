@@ -1,0 +1,35 @@
+Model for a Consolidated Contingency Plan​
+As the incident's dust settles, it is possible that a condition of perplexity and disbelief will emerge. The consequences of stressful workplace activities are well documented, and it is widely assumed that cyber-attacks, like all disputes, damage everyone engaged to recover from the incident you must keep everyone focused on the task at hand and ensure that the appropriate employees begin recovery activities in accordance with the incident response plan.
+
+
+The Planning Document
+The incident reaction document is the first document prepared for the IR and DR document set. The IR and DR plan is developed by bringing together key stakeholders in an organization, such as the top computing executive, systems administrators, security administrators, and a few functional area managers. The first step is to determine who will be in charge of managing the document, which is usually the security administrator. A secretary is assigned to keep track of the planning session's actions and outcomes. The first step is to build separate incident response and disaster recovery teams. The two groups in this arrangement are made up of the same people as the planning committee, plus additional system administrators.
+
+
+Prioritization of Efforts 
+	As the incident's dust settles, it is possible that a condition of perplexity and disbelief will emerge. The consequences of stressful workplace activities are well documented, and it is widely assumed that cyber-attacks, like all disputes, damage everyone engaged to recover from the incident you must keep everyone focused on the task at hand and ensure that the appropriate employees begin recovery activities in accordance with the incident response plan.
+
+
+Damage Assessment 
+
+During or shortly after an occurrence, incident damage assessment determines the scope of the breach of the confidentiality, integrity, and availability of information and information assets. Depending on the amount of the damage, a damage assessment could take seconds or days or weeks. An incident's consequences can range from minor - a inquisitive hacker poking around - to exceedingly serious - a credit card number theft or a worm or virus infecting hundreds of computer systems.
+
+System logs, intrusion detection logs, configuration logs and papers, documentation from the incident response, and the results of a complete examination of systems and data storage can all be utilized to establish the type, scope, and extent of damage. The IR team can assess the current state of the information and systems using these logs and documents as a comparison point. The field of computer forensics is related to the task of incident damage assessment. The process of gathering, evaluating, and archiving computer related evidence physical thing or written information organizations may use informal procedures. In formal administrative or legal proceedings, they may be required to use evidence. The aftermath of an incident can sometimes lead to a civil trial in a courtroom. Individuals who assess the harm inflicted must undergo particular training in each of these instances so that they are appropriately prepared to participate if an occurrence becomes part of a crime or results in a civil action.
+
+The healing procedure can begin in earnest once the degree of the harm has been
+identified. To fully heal from an occurrence, you must do the following:
+
+1. Determine the flaws that allowed the incident to happen and propagate. Resolve the issues.
+
+2. Examine the measures that failed to prevent or limit the occurrence, or that were never implemented in the first place. They can be installed, replaced, or upgraded.
+
+3. Examine your monitoring talents (if present). Improve their detection and reporting procedures, or simply add more monitoring capabilities to their system
+
+4. Back-ups should be used to restore the data. For more details, see the Technical Details boxes for (1) data storage and management, (2) system. back-ups and recovery, and (3) a redundant array of separate disks (RAID). The IR team must first understand
+the organization's back-up poliey, recover the data contained in back-ups, and then reconstruct the data that has been created or modified since the last back-up.
+
+5. Restore the services and processes that are currently in use. Services and processes that have been compromised must be evaluated, cleansed, and then restored. Services and procedures that were disrupted during the process of recovering control of the systems
+must be restored,
+
+6. Keep an eye on the system at all times. If something happened once, it's quite likely to happen again. The fact that the crisis is over does not indicate the organization is safe. Hackers frequently brag about their skills in online forums, challenging their peers to equal their efforts. Others may be tempted to try their hand at the same or different
+attacks if word gets out. As a result, maintaining vigilance throughout the IR process is
